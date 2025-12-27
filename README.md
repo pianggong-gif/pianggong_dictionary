@@ -1,4 +1,4 @@
-title: Pingjiang Dialect Lexicon (PGTY) — Unified Edition
+title: Pingjiang Dialect Lexicon — Unified Edition
 version: 2025-12-27-1
 generated_at: '2025-12-27T08:22:03.763097'
 counts:
